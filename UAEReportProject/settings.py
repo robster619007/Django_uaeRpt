@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = []
 
 
-# Application definition
+# Application definit-upstrion
 
 INSTALLED_APPS = [
     'django.contrib.admin',

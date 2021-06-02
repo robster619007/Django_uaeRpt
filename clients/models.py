@@ -12,6 +12,5 @@ class clients(models.Model):
     address = models.TextField()
     alt_address = models.TextField()
     email = models.EmailField()
-    
     class Meta:
         verbose_name_plural = "clients"
